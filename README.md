@@ -1,9 +1,18 @@
 # vuex-basic
 
-This template should help get you started developing with Vue 3 in Vite.
+Introduction to vuex
 
 ## Notes:
  - https://vuex.vuejs.org/
+ - What is Vuex?
+ - What problems does vuex solve?
+ - Actions
+ - Getters
+ - Mutations
+ - State
+ - Modulos
+ - Segmentation
+ - Vuex DevTools
 
 ## Recommended IDE Setup
 
